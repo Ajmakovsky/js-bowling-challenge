@@ -1,5 +1,5 @@
 
-Bowling Challenge
+Bowling Challenge 
 =================
 
 * Feel free to use google, your notes, books, etc. but work on your own
